@@ -4,10 +4,10 @@
 Ce projet a pour objectif de simuler la modulation et la démodulation de signaux en utilisant les techniques ASK et FSK. Ce livrable se concentre sur la modulation FSK.
 
 ## Membres du Groupe A3
-- Krimm Maud
-- Bernard Jules
-- Zabollone Léo
-- Drouhin Louis
+- Maud
+- Jules
+- Léo
+- Louis
 
 ## Contenu du Projet
 Le projet contient plusieurs sections de code, chacune ayant un rôle spécifique dans le processus de modulation et démodulation FSK.
